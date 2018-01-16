@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"醉美花店.html",
-  "generationDate":new Date(1516111894537.28),
+  "generationDate":new Date(1516113185848.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -65,6 +65,147 @@
           "images":{
             "normal~":"images/醉美花店/u0.png"}},
 {
+          "id":"b083c5d196184dc487dd628977d7fd3b",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "fixedHorizontal":"left",
+          "fixedMarginHorizontal":0,
+          "fixedVertical":"top",
+          "fixedMarginVertical":0,
+          "fixedKeepInFront":true,
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"1e57b38128714378aeaf58fa2fc241b2",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"11750836a0d6497197be593883624e9b",
+                  "label":"",
+                  "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":48}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b059775202d940b0aace9607b9e5fd8c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":360,
+                          "height":48}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/醉美花店/u3.png"}},
+{
+                  "id":"3c75b811e6024035a75ebd3e7e461c16",
+                  "label":"",
+                  "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"18px",
+                    "location":{
+                      "x":144,
+                      "y":11},
+                    "size":{
+                      "width":73,
+                      "height":22}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8c432c2699314c9b97c821cbae134e61",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"18px",
+                        "location":{
+                          "x":144,
+                          "y":11},
+                        "size":{
+                          "width":73,
+                          "height":22}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"ba7310f6210542b1b6eee50b546fc90a",
+                  "label":"",
+                  "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":44,
+                      "height":44},
+                    "borderWidth":"-1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3864031dbe034044afa2032f47579bf9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"b083c5d196184dc487dd628977d7fd3b",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":44,
+                          "height":44},
+                        "borderWidth":"-1",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 返回",
+                              "target":{
+                                "targetType":"backUrl",
+                                "includeVariables":false},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/西湖花市/u62.png"}}]}]},
+{
           "id":"782e7ba86a0b470bbb1ab5af3516bc77",
           "label":"",
           "type":"imageBox",
@@ -104,7 +245,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u2.png"}},
+            "normal~":"images/醉美花店/u9.png"}},
 {
           "id":"a75adc8dfca84feebbd932e665c2db54",
           "label":"",
@@ -145,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u4.png"}},
+            "normal~":"images/醉美花店/u11.png"}},
 {
           "id":"c36ea485212b4cb0bc5c73832b0beb37",
           "label":"",
@@ -186,7 +327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u6.png"}},
+            "normal~":"images/醉美花店/u13.png"}},
 {
           "id":"d547d16f6363427f8568b9f97c960e2c",
           "label":"",
@@ -227,7 +368,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u8.png"}},
+            "normal~":"images/醉美花店/u15.png"}},
 {
           "id":"901f4ca2df93474e958bdfb934450aa6",
           "label":"",
@@ -268,7 +409,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u10.png"}},
+            "normal~":"images/醉美花店/u17.png"}},
 {
           "id":"696a0ef0c9c942ab95c8d36ce7e08eb3",
           "label":"",
@@ -309,7 +450,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/西湖花市/u101.png"}},
+            "normal~":"images/西湖花市/u79.png"}},
 {
           "id":"b68c460a2c194e36961daff45e6f73a5",
           "label":"",
@@ -342,7 +483,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u14.png"}},
+            "normal~":"images/醉美花店/u21.png"}},
 {
           "id":"6807e242cce3490cb2ca02ee12f20bbd",
           "label":"",
@@ -383,42 +524,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u16.png"}},
-{
-          "id":"3c75b811e6024035a75ebd3e7e461c16",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"18px",
-            "location":{
-              "x":144,
-              "y":11},
-            "size":{
-              "width":73,
-              "height":22}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"8c432c2699314c9b97c821cbae134e61",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"18px",
-                "location":{
-                  "x":144,
-                  "y":11},
-                "size":{
-                  "width":73,
-                  "height":22}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
+            "normal~":"images/醉美花店/u23.png"}},
 {
           "id":"334f530283ff43d0aa040bf8cdb92196",
           "label":"",
@@ -558,7 +664,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u26.png"}},
+            "normal~":"images/醉美花店/u31.png"}},
 {
           "id":"6e694fb6257f4049984a116c1ebbb4ee",
           "label":"",
@@ -671,7 +777,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u32.png"}},
+            "normal~":"images/醉美花店/u37.png"}},
 {
           "id":"16a023607a4f458ca3637d9c12058cb4",
           "label":"",
@@ -704,56 +810,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/醉美花店/u34.png"}},
-{
-          "id":"ba7310f6210542b1b6eee50b546fc90a",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "size":{
-              "width":44,
-              "height":44},
-            "borderWidth":"-1",
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFF000000}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"3864031dbe034044afa2032f47579bf9",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "size":{
-                  "width":44,
-                  "height":44},
-                "borderWidth":"-1",
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000}},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 返回",
-                      "target":{
-                        "targetType":"backUrl",
-                        "includeVariables":false},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/醉美花店/u36.png"}}]}},
+            "normal~":"images/醉美花店/u39.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -761,75 +818,81 @@
       "scriptId":"u0"},
     "be5f08abd7fe4f65aca1606136d3026d":{
       "scriptId":"u1"},
-    "782e7ba86a0b470bbb1ab5af3516bc77":{
+    "b083c5d196184dc487dd628977d7fd3b":{
       "scriptId":"u2"},
-    "c023c454d1cf445ab217f8f6c53a953d":{
+    "11750836a0d6497197be593883624e9b":{
       "scriptId":"u3"},
-    "a75adc8dfca84feebbd932e665c2db54":{
+    "b059775202d940b0aace9607b9e5fd8c":{
       "scriptId":"u4"},
-    "c926020953474493891d0061284eb70a":{
-      "scriptId":"u5"},
-    "c36ea485212b4cb0bc5c73832b0beb37":{
-      "scriptId":"u6"},
-    "05afa65405f145fba6e9bbdf844b07cd":{
-      "scriptId":"u7"},
-    "d547d16f6363427f8568b9f97c960e2c":{
-      "scriptId":"u8"},
-    "3304e2ae3ef74ba6ac1190192f29f14b":{
-      "scriptId":"u9"},
-    "901f4ca2df93474e958bdfb934450aa6":{
-      "scriptId":"u10"},
-    "b4d76e3d7129406a8fe47e220818d190":{
-      "scriptId":"u11"},
-    "696a0ef0c9c942ab95c8d36ce7e08eb3":{
-      "scriptId":"u12"},
-    "1739f6a123d94b5294f7b63573745fc4":{
-      "scriptId":"u13"},
-    "b68c460a2c194e36961daff45e6f73a5":{
-      "scriptId":"u14"},
-    "dc62ff76c4b6438ba7897173c2ff124a":{
-      "scriptId":"u15"},
-    "6807e242cce3490cb2ca02ee12f20bbd":{
-      "scriptId":"u16"},
-    "75d1c64d9fd7471ea5be267c58296234":{
-      "scriptId":"u17"},
     "3c75b811e6024035a75ebd3e7e461c16":{
-      "scriptId":"u18"},
+      "scriptId":"u5"},
     "8c432c2699314c9b97c821cbae134e61":{
-      "scriptId":"u19"},
-    "334f530283ff43d0aa040bf8cdb92196":{
-      "scriptId":"u20"},
-    "c5ece35c4f384c7ab249d556b61064f3":{
-      "scriptId":"u21"},
-    "cc4a4d85f0174791aa9a6dd072d09b01":{
-      "scriptId":"u22"},
-    "5ccbf29579484a4e909f44f7cc0ab509":{
-      "scriptId":"u23"},
-    "925acba676c94739b41084562f3cd8fb":{
-      "scriptId":"u24"},
-    "56a7490c12bb4ffbafb09554b6f55364":{
-      "scriptId":"u25"},
-    "4f655db2353245248de0b81110b492f2":{
-      "scriptId":"u26"},
-    "567a27006f49469fac71057f39ac1130":{
-      "scriptId":"u27"},
-    "6e694fb6257f4049984a116c1ebbb4ee":{
-      "scriptId":"u28"},
-    "cee4236fecbb4211b43c6816e294e301":{
-      "scriptId":"u29"},
-    "be01670d0be7469db4ca860b108e675c":{
-      "scriptId":"u30"},
-    "257f01613dce47fdb2b6e269a7d8c4bb":{
-      "scriptId":"u31"},
-    "c3888914661049b6aa93e32bdf0ed15a":{
-      "scriptId":"u32"},
-    "0a27995b97734d2faa379e60c55bed10":{
-      "scriptId":"u33"},
-    "16a023607a4f458ca3637d9c12058cb4":{
-      "scriptId":"u34"},
-    "5da22da6bd5c4aaa82d6a907059e605c":{
-      "scriptId":"u35"},
+      "scriptId":"u6"},
     "ba7310f6210542b1b6eee50b546fc90a":{
-      "scriptId":"u36"},
+      "scriptId":"u7"},
     "3864031dbe034044afa2032f47579bf9":{
-      "scriptId":"u37"}}});
+      "scriptId":"u8"},
+    "782e7ba86a0b470bbb1ab5af3516bc77":{
+      "scriptId":"u9"},
+    "c023c454d1cf445ab217f8f6c53a953d":{
+      "scriptId":"u10"},
+    "a75adc8dfca84feebbd932e665c2db54":{
+      "scriptId":"u11"},
+    "c926020953474493891d0061284eb70a":{
+      "scriptId":"u12"},
+    "c36ea485212b4cb0bc5c73832b0beb37":{
+      "scriptId":"u13"},
+    "05afa65405f145fba6e9bbdf844b07cd":{
+      "scriptId":"u14"},
+    "d547d16f6363427f8568b9f97c960e2c":{
+      "scriptId":"u15"},
+    "3304e2ae3ef74ba6ac1190192f29f14b":{
+      "scriptId":"u16"},
+    "901f4ca2df93474e958bdfb934450aa6":{
+      "scriptId":"u17"},
+    "b4d76e3d7129406a8fe47e220818d190":{
+      "scriptId":"u18"},
+    "696a0ef0c9c942ab95c8d36ce7e08eb3":{
+      "scriptId":"u19"},
+    "1739f6a123d94b5294f7b63573745fc4":{
+      "scriptId":"u20"},
+    "b68c460a2c194e36961daff45e6f73a5":{
+      "scriptId":"u21"},
+    "dc62ff76c4b6438ba7897173c2ff124a":{
+      "scriptId":"u22"},
+    "6807e242cce3490cb2ca02ee12f20bbd":{
+      "scriptId":"u23"},
+    "75d1c64d9fd7471ea5be267c58296234":{
+      "scriptId":"u24"},
+    "334f530283ff43d0aa040bf8cdb92196":{
+      "scriptId":"u25"},
+    "c5ece35c4f384c7ab249d556b61064f3":{
+      "scriptId":"u26"},
+    "cc4a4d85f0174791aa9a6dd072d09b01":{
+      "scriptId":"u27"},
+    "5ccbf29579484a4e909f44f7cc0ab509":{
+      "scriptId":"u28"},
+    "925acba676c94739b41084562f3cd8fb":{
+      "scriptId":"u29"},
+    "56a7490c12bb4ffbafb09554b6f55364":{
+      "scriptId":"u30"},
+    "4f655db2353245248de0b81110b492f2":{
+      "scriptId":"u31"},
+    "567a27006f49469fac71057f39ac1130":{
+      "scriptId":"u32"},
+    "6e694fb6257f4049984a116c1ebbb4ee":{
+      "scriptId":"u33"},
+    "cee4236fecbb4211b43c6816e294e301":{
+      "scriptId":"u34"},
+    "be01670d0be7469db4ca860b108e675c":{
+      "scriptId":"u35"},
+    "257f01613dce47fdb2b6e269a7d8c4bb":{
+      "scriptId":"u36"},
+    "c3888914661049b6aa93e32bdf0ed15a":{
+      "scriptId":"u37"},
+    "0a27995b97734d2faa379e60c55bed10":{
+      "scriptId":"u38"},
+    "16a023607a4f458ca3637d9c12058cb4":{
+      "scriptId":"u39"},
+    "5da22da6bd5c4aaa82d6a907059e605c":{
+      "scriptId":"u40"}}});
