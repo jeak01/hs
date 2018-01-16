@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"醉美花店.html",
-  "generationDate":new Date(1516111771343.57),
+  "generationDate":new Date(1516111894537.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

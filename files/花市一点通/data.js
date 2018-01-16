@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"花市一点通.html",
-  "generationDate":new Date(1516111770446.41),
+  "generationDate":new Date(1516111893935.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -34,8 +34,8 @@
             "isNewIfGroup":false,
             "actions":[{
                 "action":"wait",
-                "description":"等待3000毫秒",
-                "waitTime":3000},
+                "description":"等待2000毫秒",
+                "waitTime":2000},
 {
                 "action":"fadeWidget",
                 "description":"隐藏 启动画面 淡入淡出 500 ms",
@@ -1543,7 +1543,7 @@
                       "color":0xFF333333},
                     "location":{
                       "x":310,
-                      "y":640},
+                      "y":151},
                     "size":{
                       "width":50,
                       "height":30},
@@ -1572,7 +1572,7 @@
                           "color":0xFF333333},
                         "location":{
                           "x":310,
-                          "y":640},
+                          "y":151},
                         "size":{
                           "width":50,
                           "height":30},
